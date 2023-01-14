@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 commit1_a.txt in main branch
+=======
+commit1_develop
+>>>>>>> Develop
